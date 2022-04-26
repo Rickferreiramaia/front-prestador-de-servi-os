@@ -8,7 +8,7 @@
 ## Imagens do projeto
 
 ### Tela Home
-![Captura de tela 2022-04-25 225221](https://user-images.githubusercontent.com/91157487/165205029-ad090a06-ab58-4a49-8750-790e520ac874.png)
+![correta](https://user-images.githubusercontent.com/91157487/165205847-3754bb3d-1d22-47e5-8ad4-16ae662f20ff.png)
 ### Tela cadastro de prestador
 ![Captura de tela 2022-04-25 230427](https://user-images.githubusercontent.com/91157487/165205088-7aca7aa1-eaa8-4e7d-8051-769173e8e571.png)
 ### Tela de serviços prestados
